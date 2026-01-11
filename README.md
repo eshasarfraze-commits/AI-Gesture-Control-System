@@ -46,12 +46,4 @@ Index swipe	Brightness
 Three fingers	Scroll
 p key	Pause
 q key	Quit
- Use Cases
-
-Touchless computer control
-
-Accessibility tools
-
-Smart home & IoT systems
-
-Human–computer interaction research
+ 
